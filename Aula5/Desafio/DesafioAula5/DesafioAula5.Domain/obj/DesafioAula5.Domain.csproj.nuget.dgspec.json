@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ronal\\OneDrive\\Área de Trabalho\\Jumpstart\\Aulas\\Aula5\\Desafio\\DesafioAula5\\DesafioAula5.Domain\\DesafioAula5.Domain.csproj": {}
+    "C:\\Users\\ronal\\OneDrive\\Área de Trabalho\\Jumpstart\\Aulas\\jumpstart\\Aula5\\Desafio\\DesafioAula5\\DesafioAula5.Domain\\DesafioAula5.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ronal\\OneDrive\\Área de Trabalho\\Jumpstart\\Aulas\\Aula5\\Desafio\\DesafioAula5\\DesafioAula5.Domain\\DesafioAula5.Domain.csproj": {
+    "C:\\Users\\ronal\\OneDrive\\Área de Trabalho\\Jumpstart\\Aulas\\jumpstart\\Aula5\\Desafio\\DesafioAula5\\DesafioAula5.Domain\\DesafioAula5.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ronal\\OneDrive\\Área de Trabalho\\Jumpstart\\Aulas\\Aula5\\Desafio\\DesafioAula5\\DesafioAula5.Domain\\DesafioAula5.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ronal\\OneDrive\\Área de Trabalho\\Jumpstart\\Aulas\\jumpstart\\Aula5\\Desafio\\DesafioAula5\\DesafioAula5.Domain\\DesafioAula5.Domain.csproj",
         "projectName": "DesafioAula5.Domain",
-        "projectPath": "C:\\Users\\ronal\\OneDrive\\Área de Trabalho\\Jumpstart\\Aulas\\Aula5\\Desafio\\DesafioAula5\\DesafioAula5.Domain\\DesafioAula5.Domain.csproj",
+        "projectPath": "C:\\Users\\ronal\\OneDrive\\Área de Trabalho\\Jumpstart\\Aulas\\jumpstart\\Aula5\\Desafio\\DesafioAula5\\DesafioAula5.Domain\\DesafioAula5.Domain.csproj",
         "packagesPath": "C:\\Users\\ronal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ronal\\OneDrive\\Área de Trabalho\\Jumpstart\\Aulas\\Aula5\\Desafio\\DesafioAula5\\DesafioAula5.Domain\\obj\\",
+        "outputPath": "C:\\Users\\ronal\\OneDrive\\Área de Trabalho\\Jumpstart\\Aulas\\jumpstart\\Aula5\\Desafio\\DesafioAula5\\DesafioAula5.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ronal\\AppData\\Roaming\\NuGet\\NuGet.Config",

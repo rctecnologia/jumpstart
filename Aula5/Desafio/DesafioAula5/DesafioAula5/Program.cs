@@ -11,7 +11,6 @@ do
         "2. Sacar\n" +
         "3. Depositar\n" +
         "4. Transferir\n" +
-        //"8. Mostrar Contas\n" +
         "5. Sair\n\n>");
 
     op = int.Parse(Console.ReadLine());
@@ -20,10 +19,6 @@ do
     if (op == 1)
     {
         contaCorrente.AbreConta();
-    }
-    else if (op == 8)
-    {
-        contaCorrente.mostrarContas();
     }
 }
 while (op != 5);

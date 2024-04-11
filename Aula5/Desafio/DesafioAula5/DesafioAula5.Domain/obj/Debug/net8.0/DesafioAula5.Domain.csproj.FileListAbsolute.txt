@@ -9,3 +9,15 @@ C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula5\Desafio\DesafioA
 C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula5\Desafio\DesafioAula5\DesafioAula5.Domain\obj\Debug\net8.0\refint\DesafioAula5.Domain.dll
 C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula5\Desafio\DesafioAula5\DesafioAula5.Domain\obj\Debug\net8.0\DesafioAula5.Domain.pdb
 C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula5\Desafio\DesafioAula5\DesafioAula5.Domain\obj\Debug\net8.0\ref\DesafioAula5.Domain.dll
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\jumpstart\Aula5\Desafio\DesafioAula5\DesafioAula5.Domain\bin\Debug\net8.0\DesafioAula5.Domain.deps.json
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\jumpstart\Aula5\Desafio\DesafioAula5\DesafioAula5.Domain\bin\Debug\net8.0\DesafioAula5.Domain.dll
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\jumpstart\Aula5\Desafio\DesafioAula5\DesafioAula5.Domain\bin\Debug\net8.0\DesafioAula5.Domain.pdb
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\jumpstart\Aula5\Desafio\DesafioAula5\DesafioAula5.Domain\obj\Debug\net8.0\DesafioAula5.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\jumpstart\Aula5\Desafio\DesafioAula5\DesafioAula5.Domain\obj\Debug\net8.0\DesafioAula5.Domain.AssemblyInfoInputs.cache
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\jumpstart\Aula5\Desafio\DesafioAula5\DesafioAula5.Domain\obj\Debug\net8.0\DesafioAula5.Domain.AssemblyInfo.cs
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\jumpstart\Aula5\Desafio\DesafioAula5\DesafioAula5.Domain\obj\Debug\net8.0\DesafioAula5.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\jumpstart\Aula5\Desafio\DesafioAula5\DesafioAula5.Domain\obj\Debug\net8.0\DesafioAula5.Domain.sourcelink.json
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\jumpstart\Aula5\Desafio\DesafioAula5\DesafioAula5.Domain\obj\Debug\net8.0\DesafioAula5.Domain.dll
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\jumpstart\Aula5\Desafio\DesafioAula5\DesafioAula5.Domain\obj\Debug\net8.0\refint\DesafioAula5.Domain.dll
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\jumpstart\Aula5\Desafio\DesafioAula5\DesafioAula5.Domain\obj\Debug\net8.0\DesafioAula5.Domain.pdb
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\jumpstart\Aula5\Desafio\DesafioAula5\DesafioAula5.Domain\obj\Debug\net8.0\ref\DesafioAula5.Domain.dll

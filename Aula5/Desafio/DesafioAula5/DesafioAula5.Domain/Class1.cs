@@ -38,26 +38,6 @@
                 Console.Clear();
             }
         }
-        int j = 0;
-        int k = 0;
-        public void mostrarContas()
-        {
-            for (int j = 1; j <= numContas; j++)
-            {
-                for (k = 0; k <3; k++)
-                {
-                    Console.WriteLine($"Conta {j} campo {k}");
-                    Console.WriteLine(cadastro[j, k]);
-                   
-                }
-                
-                k++;
-            }
-            Console.Write("Digite algo para voltar menu principal");
-            Console.ReadKey();
-            Console.Clear();
-        }
-
 
     }
 }
