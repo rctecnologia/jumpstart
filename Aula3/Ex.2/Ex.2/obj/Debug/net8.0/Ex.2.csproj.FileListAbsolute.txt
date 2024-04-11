@@ -1,0 +1,14 @@
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula3\Ex.2\Ex.2\bin\Debug\net8.0\Ex.2.exe
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula3\Ex.2\Ex.2\bin\Debug\net8.0\Ex.2.deps.json
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula3\Ex.2\Ex.2\bin\Debug\net8.0\Ex.2.runtimeconfig.json
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula3\Ex.2\Ex.2\bin\Debug\net8.0\Ex.2.dll
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula3\Ex.2\Ex.2\bin\Debug\net8.0\Ex.2.pdb
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula3\Ex.2\Ex.2\obj\Debug\net8.0\Ex.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula3\Ex.2\Ex.2\obj\Debug\net8.0\Ex.2.AssemblyInfoInputs.cache
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula3\Ex.2\Ex.2\obj\Debug\net8.0\Ex.2.AssemblyInfo.cs
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula3\Ex.2\Ex.2\obj\Debug\net8.0\Ex.2.csproj.CoreCompileInputs.cache
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula3\Ex.2\Ex.2\obj\Debug\net8.0\Ex.2.dll
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula3\Ex.2\Ex.2\obj\Debug\net8.0\refint\Ex.2.dll
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula3\Ex.2\Ex.2\obj\Debug\net8.0\Ex.2.pdb
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula3\Ex.2\Ex.2\obj\Debug\net8.0\Ex.2.genruntimeconfig.cache
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula3\Ex.2\Ex.2\obj\Debug\net8.0\ref\Ex.2.dll

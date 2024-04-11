@@ -1,0 +1,14 @@
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\DesafioAula4\DesafioAula4\bin\Debug\net8.0\DesafioAula4.exe
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\DesafioAula4\DesafioAula4\bin\Debug\net8.0\DesafioAula4.deps.json
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\DesafioAula4\DesafioAula4\bin\Debug\net8.0\DesafioAula4.runtimeconfig.json
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\DesafioAula4\DesafioAula4\bin\Debug\net8.0\DesafioAula4.dll
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\DesafioAula4\DesafioAula4\bin\Debug\net8.0\DesafioAula4.pdb
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\DesafioAula4\DesafioAula4\obj\Debug\net8.0\DesafioAula4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\DesafioAula4\DesafioAula4\obj\Debug\net8.0\DesafioAula4.AssemblyInfoInputs.cache
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\DesafioAula4\DesafioAula4\obj\Debug\net8.0\DesafioAula4.AssemblyInfo.cs
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\DesafioAula4\DesafioAula4\obj\Debug\net8.0\DesafioAula4.csproj.CoreCompileInputs.cache
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\DesafioAula4\DesafioAula4\obj\Debug\net8.0\DesafioAula4.dll
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\DesafioAula4\DesafioAula4\obj\Debug\net8.0\refint\DesafioAula4.dll
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\DesafioAula4\DesafioAula4\obj\Debug\net8.0\DesafioAula4.pdb
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\DesafioAula4\DesafioAula4\obj\Debug\net8.0\DesafioAula4.genruntimeconfig.cache
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\DesafioAula4\DesafioAula4\obj\Debug\net8.0\ref\DesafioAula4.dll

@@ -1,0 +1,14 @@
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\cadMaterial\cadMaterial\bin\Debug\net8.0\cadMaterial.exe
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\cadMaterial\cadMaterial\bin\Debug\net8.0\cadMaterial.deps.json
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\cadMaterial\cadMaterial\bin\Debug\net8.0\cadMaterial.runtimeconfig.json
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\cadMaterial\cadMaterial\bin\Debug\net8.0\cadMaterial.dll
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\cadMaterial\cadMaterial\bin\Debug\net8.0\cadMaterial.pdb
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\cadMaterial\cadMaterial\obj\Debug\net8.0\cadMaterial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\cadMaterial\cadMaterial\obj\Debug\net8.0\cadMaterial.AssemblyInfoInputs.cache
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\cadMaterial\cadMaterial\obj\Debug\net8.0\cadMaterial.AssemblyInfo.cs
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\cadMaterial\cadMaterial\obj\Debug\net8.0\cadMaterial.csproj.CoreCompileInputs.cache
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\cadMaterial\cadMaterial\obj\Debug\net8.0\cadMaterial.dll
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\cadMaterial\cadMaterial\obj\Debug\net8.0\refint\cadMaterial.dll
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\cadMaterial\cadMaterial\obj\Debug\net8.0\cadMaterial.pdb
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\cadMaterial\cadMaterial\obj\Debug\net8.0\cadMaterial.genruntimeconfig.cache
+C:\Users\ronal\OneDrive\Área de Trabalho\Jumpstart\Aulas\Aula4\cadMaterial\cadMaterial\obj\Debug\net8.0\ref\cadMaterial.dll

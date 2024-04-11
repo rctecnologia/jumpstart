@@ -1,0 +1,18 @@
+/*
+Criar um programa que receba um total de 10 contas correntes
+e que permita ao usuário realizar saques, depósitos e transferências entre contas.
+O programa só dever ser encerrado quando o usuário desejar.
+
+Utilizar as regras de negócio da aula 05. 
+    - Saldo não pode ser negativo
+    - Transferência só pode ser realizada se houver saldo suficiente
+    - O valor do saque não pode ser maior que o saldo
+    - O valor do depósito não pode ser negativo
+
+- Telas
+ - 1. Abrir Conta
+ - 2. Sacar
+ - 3. Depositar
+ - 4. Transferir
+ - 5. Sair
+ */
