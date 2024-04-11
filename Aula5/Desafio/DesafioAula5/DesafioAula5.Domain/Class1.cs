@@ -8,6 +8,7 @@
         private string _conta;
         private string _documento;
         private int numContas = 1;
+        private int op = 0;
 
         string[,] cadastro = new string[10, 3];
 
@@ -15,6 +16,28 @@
       
         }
 
+        public void Menu()
+        {
+            do
+            {
+                Console.Write("Jumpstart Bank\n\n" +
+                    "Digite a Opção desejada:\n" +
+                    "1. Abrir Conta\n" +
+                    "2. Sacar\n" +
+                    "3. Depositar\n" +
+                    "4. Transferir\n" +
+                    "5. Sair\n\n>");
+
+                op = int.Parse(Console.ReadLine());
+                Console.Clear();
+
+                if (op == 1)
+                {
+                    AbreConta();
+                }
+            }
+            while (op != 5);
+        }
         public void AbreConta()
         {
             if (numContas <= 10)
