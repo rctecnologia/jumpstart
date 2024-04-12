@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ronal\\OneDrive\\Área de Trabalho\\Jumpstart\\Aulas\\Aula4\\Aula5\\Aula5\\Aula5.csproj",
+      "projectUniqueName": "C:\\Users\\ronal\\OneDrive\\Área de Trabalho\\Jumpstart\\Aulas\\jumpstart\\Aula4\\Aula5\\Aula5\\Aula5.csproj",
       "projectName": "Aula5",
-      "projectPath": "C:\\Users\\ronal\\OneDrive\\Área de Trabalho\\Jumpstart\\Aulas\\Aula4\\Aula5\\Aula5\\Aula5.csproj",
+      "projectPath": "C:\\Users\\ronal\\OneDrive\\Área de Trabalho\\Jumpstart\\Aulas\\jumpstart\\Aula4\\Aula5\\Aula5\\Aula5.csproj",
       "packagesPath": "C:\\Users\\ronal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ronal\\OneDrive\\Área de Trabalho\\Jumpstart\\Aulas\\Aula4\\Aula5\\Aula5\\obj\\",
+      "outputPath": "C:\\Users\\ronal\\OneDrive\\Área de Trabalho\\Jumpstart\\Aulas\\jumpstart\\Aula4\\Aula5\\Aula5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ronal\\AppData\\Roaming\\NuGet\\NuGet.Config",

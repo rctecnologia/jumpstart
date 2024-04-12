@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ronal\\OneDrive\\\u00C1rea de Trabalho\\Jumpstart\\Aulas\\jumpstart\\Aula5\\Desafio\\DesafioAula5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00744B7B-B16A-49C4-BCF4-009F6AE938B0}|DesafioAula5\\DesafioAula5.csproj|c:\\users\\ronal\\onedrive\\\u00E1rea de trabalho\\jumpstart\\aulas\\jumpstart\\aula5\\desafio\\desafioaula5\\desafioaula5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00744B7B-B16A-49C4-BCF4-009F6AE938B0}|DesafioAula5\\DesafioAula5.csproj|solutionrelative:desafioaula5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C48C159-9A93-46D4-A031-5C93D6821EB8}|DesafioAula5.Domain\\DesafioAula5.Domain.csproj|c:\\users\\ronal\\onedrive\\\u00E1rea de trabalho\\jumpstart\\aulas\\jumpstart\\aula5\\desafio\\desafioaula5\\desafioaula5.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C48C159-9A93-46D4-A031-5C93D6821EB8}|DesafioAula5.Domain\\DesafioAula5.Domain.csproj|solutionrelative:desafioaula5.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C48C159-9A93-46D4-A031-5C93D6821EB8}|DesafioAula5.Domain\\DesafioAula5.Domain.csproj|C:\\Users\\ronal\\OneDrive\\\u00C1rea de Trabalho\\Jumpstart\\Aulas\\jumpstart\\Aula5\\Desafio\\DesafioAula5\\desafioaula5.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C48C159-9A93-46D4-A031-5C93D6821EB8}|DesafioAula5.Domain\\DesafioAula5.Domain.csproj|solutionrelative:desafioaula5.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00744B7B-B16A-49C4-BCF4-009F6AE938B0}|DesafioAula5\\DesafioAula5.csproj|C:\\Users\\ronal\\OneDrive\\\u00C1rea de Trabalho\\Jumpstart\\Aulas\\jumpstart\\Aula5\\Desafio\\DesafioAula5\\desafioaula5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00744B7B-B16A-49C4-BCF4-009F6AE938B0}|DesafioAula5\\DesafioAula5.csproj|solutionrelative:desafioaula5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2BEE2A5-3A47-47A2-ABF0-29F7B40B00CA}|Solution Items{F2BEE2A5-3A47-47A2-ABF0-29F7B40B00CA}|C:\\Users\\ronal\\OneDrive\\\u00C1rea de Trabalho\\Jumpstart\\Aulas\\jumpstart\\Aula5\\Desafio\\DesafioAula5\\Enunciado.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -22,19 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -50,19 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\\u00C1rea de Trabalho\\Jumpstart\\Aulas\\jumpstart\\Aula5\\Desafio\\DesafioAula5\\DesafioAula5.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "DesafioAula5.Domain\\Class1.cs",
               "ToolTip": "C:\\Users\\ronal\\OneDrive\\\u00C1rea de Trabalho\\Jumpstart\\Aulas\\jumpstart\\Aula5\\Desafio\\DesafioAula5\\DesafioAula5.Domain\\Class1.cs",
               "RelativeToolTip": "DesafioAula5.Domain\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAwwF0AAABmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T22:09:19.395Z"
+              "WhenOpened": "2024-04-10T22:09:19.395Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\\u00C1rea de Trabalho\\Jumpstart\\Aulas\\jumpstart\\Aula5\\Desafio\\DesafioAula5\\DesafioAula5\\Program.cs",
               "RelativeDocumentMoniker": "DesafioAula5\\Program.cs",
@@ -70,8 +63,7 @@
               "RelativeToolTip": "DesafioAula5\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T22:04:18.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T22:04:18.749Z"
             }
           ]
         }
