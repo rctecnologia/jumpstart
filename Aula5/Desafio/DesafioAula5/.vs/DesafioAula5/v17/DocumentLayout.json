@@ -22,8 +22,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -46,8 +58,7 @@
               "RelativeToolTip": "DesafioAula5.Domain\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T22:09:19.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T22:09:19.395Z"
             },
             {
               "$type": "Document",
@@ -57,7 +68,7 @@
               "RelativeDocumentMoniker": "DesafioAula5\\Program.cs",
               "ToolTip": "C:\\Users\\ronal\\OneDrive\\\u00C1rea de Trabalho\\Jumpstart\\Aulas\\jumpstart\\Aula5\\Desafio\\DesafioAula5\\DesafioAula5\\Program.cs",
               "RelativeToolTip": "DesafioAula5\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T22:04:18.749Z",
               "EditorCaption": ""
